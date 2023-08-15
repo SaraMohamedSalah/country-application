@@ -1,0 +1,28 @@
+﻿Id,Name,Population,Country Code
+1,NewYork,1000,ABC
+2,Chicago,1000,ABC
+3,Los Angeles,1100,ABC
+4,White Hill,1200,BCD
+5,Crocus Hill,1300,BCD
+6,Betty Hill,1400,BCD
+7,Toronto,1500,CDE
+8,Kelowna,1600,CDE
+9,Sudbury,1700,CDE
+10,Alexandria,1800,DEF
+11,Aswan,1900,DEF
+12,Luxor,2000,DEF
+13,Singa ,2000,EFG
+14,Port Sudan ,2100,EFG
+15,Kassala,2200,EFG
+16,Marrakesh,2300,FGH
+17,Temara,2400,FGH
+18,Safi,2500,FGH
+19,Hamburg,2600,GHI
+20,Munich,2700,GHI
+21,Frankfurt,3000,GHI
+22,Nice,4000,HIJ
+23,Strasbourg,5000,HIJ
+24,Lille,6000,HIJ
+25,Oxford,7000,IJK
+26,Cambridge,8000,IJK
+27,Leicester,9000,IJK
